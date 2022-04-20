@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sp1nnek0p
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning some Javascript
 - 💞️ I’m looking to collaborate on any Projects
 - 📫 How to reach me pauls.mts@gmail.com
 
