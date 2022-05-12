@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Javascript**
 
-- 🤝 I’m looking for help with [Transportation Link](FutureProject)
+- 🤝 I’m looking for help with [Trasport Loads Broker (future app)](FutureProject)
 
 - 👨‍💻 All of my projects are available at [https://sp1nnek0p.github.io/Portfolio/](https://sp1nnek0p.github.io/Portfolio/)
 
