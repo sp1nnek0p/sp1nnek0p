@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/paulstryd" target="blank"><img src="https://img.shields.io/twitter/follow/paulstryd?logo=twitter&style=for-the-badge" alt="paulstryd" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [Trasport Loads Broker (future app)](FutureProject)
+- 🤝 I’m looking for help with [Django Trasport Loads Broker (future app)](FutureProject)
 
 - 👨‍💻 All of my projects are available at [https://sp1nnek0p.github.io/Portfolio/](https://sp1nnek0p.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Django**
 
 - 📫 How to reach me **pauls.mts@gmail.com**
 
