@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [Django Trasport Loads Broker (future app)](FutureProject)
+- 🤝 I’m looking for someone to collaborate with on [Django Trasport Loads Broker (future app)](FutureProject)(front-end dev)
 
 - 👨‍💻 All of my projects are available at [https://sp1nnek0p.github.io/Portfolio/](https://sp1nnek0p.github.io/Portfolio/)
 
