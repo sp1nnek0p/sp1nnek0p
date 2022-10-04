@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sp1nnek0p.github.io/Portfolio/](https://sp1nnek0p.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, SQL, Django**
+- 💬 Ask me about **Python, SQL, Django and Rest**
 
 - 📫 How to reach me **pauls.mts@gmail.com**
 
-- ⚡ Fun fact **I love Coffee and Fast Food**
+- ⚡ Fun fact **I love Computer games, Coffee and Fast Food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
