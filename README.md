@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Strydom</h1>
-<h3 align="center">A passionate about everything Python</h3>
+<h3 align="center">passionate about everything Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp1nnek0p&label=Profile%20views&color=0e75b6&style=flat" alt="sp1nnek0p" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for someone to collaborate with on [Django Trasport Loads Broker (future app)](FutureProject)(I need a front-end dev)
+- 🤝 I’m looking for someone to collaborate with on [Django Trasport Loads Broker (future app)](FutureProject)
 
 - 👨‍💻 All of my projects are available at [https://sp1nnek0p.github.io/Portfolio/](https://sp1nnek0p.github.io/Portfolio/)
 
